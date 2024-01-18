@@ -1,0 +1,24 @@
+﻿/*Bootstrap config*/
+
+/*Estilos do formulario*/
+.cabecalho{
+    text-align:center;
+    font-family:Georgia
+}
+
+.formulario{
+    text-align:center;
+    font-family:Arial
+}
+
+.form-button {
+    color: blue;
+}
+
+.btn{
+    margin-right:10px;
+}
+
+.form-group{
+    text-align:center;
+}
